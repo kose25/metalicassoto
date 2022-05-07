@@ -1,0 +1,15 @@
+.navtrans {
+    background: rgb(21, 33, 57);
+    background: linear-gradient(180deg, rgba(21, 33, 57, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    /* background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(255,0,0,1)); */
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/serpentine-icg-boldoblique.ttf);
+}
+
+.fuentecita {
+    font-family: myFirstFont;
+    text-transform: uppercase;
+}
